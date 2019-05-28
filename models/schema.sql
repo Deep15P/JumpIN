@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS jumpin_db;
+CREATE DATABASE jumpin_db;
+
